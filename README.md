@@ -17,9 +17,9 @@ This is a modern e-commerce frontend project built using React + Vite, featuring
 ✅ **Responsive** – mobile-friendly grid layout  
 ✅ **Clean UI** – elegant styling with modern gradients  
 
-## 🗂️ Folder Structure
+<!-- ## 🗂️ Folder Structure
 
-<!-- SHOPPING-WEBSITE/
+SHOPPING-WEBSITE/
 ├── src/
 │   ├── components/
 │   │   ├── Header.jsx
