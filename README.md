@@ -19,7 +19,7 @@ This is a modern e-commerce frontend project built using React + Vite, featuring
 
 ## 🗂️ Folder Structure
 
-SHOPPING-WEBSITE/
+<!-- SHOPPING-WEBSITE/
 ├── src/
 │   ├── components/
 │   │   ├── Header.jsx
@@ -32,7 +32,7 @@ SHOPPING-WEBSITE/
 │   │   ├── ProductDetail.jsx
 │   │   └── ProductList.jsx
 │   ├── App.jsx
-│   └── main.jsx
+│   └── main.jsx -->
 
 
 ## ⚙️ Setup Instructions
